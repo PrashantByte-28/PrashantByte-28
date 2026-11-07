@@ -91,14 +91,14 @@ I'm an MCA student passionate about Data Science, Machine Learning, and Artifici
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrashantByte-28&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantByte-28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrashantByte-28&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantByte-28&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrashantByte-28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=PrashantByte-28&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 📈 Contribution Activity
