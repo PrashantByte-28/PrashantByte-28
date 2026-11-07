@@ -90,11 +90,6 @@ I'm an MCA student passionate about Data Science, Machine Learning, and Artifici
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrashantByte-28&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantByte-28&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
 ### 🔥 Contribution Streak
 
 <p align="center">
