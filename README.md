@@ -104,7 +104,11 @@ I'm an MCA student passionate about Data Science, Machine Learning, and Artifici
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashantByte-28&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img
+    src="https://github-activity-graph-bay.vercel.app/graph?username=PrashantByte-28&theme=tokyo-night"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
 </p>
 
 ### 🏆 GitHub Achievements
